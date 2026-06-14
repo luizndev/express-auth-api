@@ -15,18 +15,25 @@ O desafio era simples:
 Resultado?
 
 ✅ Funcionou.
+
 ✅ O banco salva.
+
 ✅ O login autentica.
+
 ✅ O token gera.
+
 ✅ O `/me` retorna o usuário.
 
 ❓ O código está perfeito?
+
 `Provavelmente não.`
 
 ❓ Eu sobrevivi?
+
 `Sim.`
 
 ❓ Foi mais difícil do que eu imaginava?
+
 `Com certeza.`
 
 Mas tá aí... missão cumprida `(eu acho)` 😎
