@@ -14,27 +14,27 @@ O desafio era simples:
 
 Resultado?
 
-✅ Funcionou.
+✅ Funcionou
 
-✅ O banco salva.
+✅ O banco salva
 
-✅ O login autentica.
+✅ O login autentica
 
-✅ O token gera.
+✅ O token gera
 
-✅ O `/me` retorna o usuário.
+✅ O `/profile` retorna o usuário ou era pra retornar kkkk
 
 ❓ O código está perfeito?
 
-`Provavelmente não.`
+`Provavelmente não...`
 
 ❓ Eu sobrevivi?
 
-`Sim.`
+`Sim....`
 
 ❓ Foi mais difícil do que eu imaginava?
 
-`Com certeza.`
+`Com certeza....`
 
 Mas tá aí... missão cumprida `(eu acho)` 😎
 
