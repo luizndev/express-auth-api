@@ -9,7 +9,7 @@ O desafio era simples:
 - Criar um cadastro de usuários
 - Fazer login
 - Gerar JWT
-- Criar rota protegida `/me`
+- Criar rota protegida `/auth/profile`
 - Não pedir ajuda para IA
 
 Resultado?
