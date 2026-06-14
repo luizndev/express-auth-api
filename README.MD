@@ -1,8 +1,6 @@
 # Express Auth API
 
-Domingão, 14/06/2026.
-
-Hoje me desafiei a fazer essa API de autenticação **100% sem IA**. 🤡
+Domingão desse sem nada pra fazer, tedio tedio ai descidir criar uma Aplicação quase sem ia 🤡
 
 Apenas eu, meu teclado, alguns erros estranhos, com o autocomplete fazendo hora extra. 😂
 
